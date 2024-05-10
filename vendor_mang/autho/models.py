@@ -1,0 +1,1 @@
+from django.db import modelsclass name_data(models.Model):    names = models.CharField(max_length=100)
